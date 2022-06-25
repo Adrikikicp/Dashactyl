@@ -6,7 +6,8 @@
   "author": "Jamie_#0001, Two#3864",
   "license": "ISC",
   "scripts": {
-    "lint": "npx eslint --fix ."
+    "lint": "npx eslint --fix .",
+    "start": "node index.js"
   },
   "dependencies": {
     "better-sqlite3": "^7.4.3",
